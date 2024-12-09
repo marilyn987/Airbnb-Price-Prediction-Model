@@ -1,4 +1,4 @@
-# Airbnb-Price-Prediction-Model
+# airbnb-price-prediction-model
 
 Libraries used: Pandas, Numpy, Matplotlib, Seaborn, scikit-learn
 
